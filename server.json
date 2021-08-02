@@ -1,0 +1,15 @@
+{
+  "users": [
+    { "id": 1, "name": "thayron", "cpf": "71895114071", "email": "thayron@gmail.com", "login": "thayron", "password": "123456", "typeProfile": "editor" },
+    { "id": 2, "name": "maria", "cpf": "66577490074", "email": "maria@gmail.com", "login": "maria", "password": "80984dasf", "typeProfile": "visualizador" },
+    { "id": 3, "name": "jonas", "cpf": "25891145081", "email": "jonas@gmail.com", "login": "jonas", "password": "911114", "typeProfile": "editor" },
+    { "id": 4, "name": "matheus", "cpf": "34135112030", "email": "matheus@gmail.com", "login": "matheus", "password": "9741695", "typeProfile": "visualizador" },
+    { "id": 5, "name": "ricardo", "cpf": "34135112030", "email": "ricardo@gmail.com", "login": "ricardo", "password": "81651df", "typeProfile": "visualizador" },
+    { "id": 6, "name": "elias", "cpf": "14303131024", "email": "elias@gmail.com", "login": "elias", "password": "689496516", "typeProfile": "visualizador" },
+    { "id": 7, "name": "diego", "cpf": "73874462021", "email": "diego@gmail.com", "login": "diego", "password": "651985165", "typeProfile": "visualizador" },
+    { "id": 8, "name": "aline", "cpf": "52503216072", "email": "aline@gmail.com", "login": "aline", "password": "9165165", "typeProfile": "visualizador" },
+    { "id": 9, "name": "pedro", "cpf": "22974142001", "email": "pedro@gmail.com", "login": "pedro", "password": "71981sd", "typeProfile": "visualizador" },
+    { "id": 10, "name": "euler", "cpf": "69851136050", "email": "euler@gmail.com", "login": "euler", "password": "6817df9a8s", "typeProfile": "editor" }
+  ]
+}
+
